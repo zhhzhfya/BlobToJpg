@@ -1,0 +1,27 @@
+2018-07-03 10:01:15 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:orcl, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 10:01:15 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 14:52:08 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 14:52:09 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 14:52:38 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 14:52:38 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 14:57:07 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 14:57:07 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 14:57:07 [main] [com.appsoft.utils.PropertyUtil:22] - 加载job.properties,内容:{dir=D:\WJ_RESOURCE\ID_CARD2\, sql=select id_card, pic from wj_blob_test}
+2018-07-03 14:57:15 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 14:57:15 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 14:57:15 [main] [com.appsoft.utils.PropertyUtil:22] - 加载job.properties,内容:{dir=D:\WJ_RESOURCE\ID_CARD2\, sql=select id_card, pic from wj_blob_test}
+2018-07-03 14:58:28 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 14:58:29 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 14:58:29 [main] [com.appsoft.utils.PropertyUtil:22] - 加载job.properties,内容:{dir=D:\WJ_RESOURCE\ID_CARD2\, sql=select id_card, pic from wj_blob_test}
+2018-07-03 14:58:36 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 14:58:36 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 14:58:36 [main] [com.appsoft.utils.PropertyUtil:22] - 加载job.properties,内容:{dir=D:\WJ_RESOURCE\ID_CARD2\, sql=select id_card, pic from wj_blob_test}
+2018-07-03 15:11:16 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 15:11:17 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 15:11:17 [main] [com.appsoft.utils.PropertyUtil:22] - 加载job.properties,内容:{dir=D:\WJ_RESOURCE\ID_CARD2\, sql=select id_card, pic from wj_blob_test}
+2018-07-03 15:12:17 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 15:12:17 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 15:12:17 [main] [com.appsoft.utils.PropertyUtil:22] - 加载job.properties,内容:{dir=D:\WJ_RESOURCE\ID_CARD2\, sql=select id_card, pic from wj_blob_test}
+2018-07-03 15:46:37 [main] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver, names=jdbc/rhcore, jdbc/rhcore.user=WJ_RCVR}
+2018-07-03 15:46:37 [main] [com.appsoft.data_trans.DsMgr:49] - init ds ok
+2018-07-03 15:46:37 [main] [com.appsoft.utils.PropertyUtil:22] - 加载job.properties,内容:{dir=D:\WJ_RESOURCE\ID_CARD2\, sql=select id_card, pic from wj_blob_test}

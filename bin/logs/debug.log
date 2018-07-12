@@ -1,0 +1,3 @@
+2018-07-12 17:10:09 [Thread-3] [com.appsoft.utils.PropertyUtil:22] - 加载db.properties,内容:{jdbc/rhcore.user=WJ_RCVR, jdbc/rhcore.minPoolSize=2, jdbc/rhcore.password=WJ_RCVR, jdbc/rhcore.maxPoolSize=15, jdbc/rhcore.maxIdleTime=0, jdbc/rhcore.maxConnectionAge=0, names=jdbc/rhcore, jdbc/rhcore.acquireIncrement=2, jdbc/rhcore.jdbcUrl=jdbc:oracle:thin:@192.168.7.246:1521:ORCL, jdbc/rhcore.driverClass=oracle.jdbc.driver.OracleDriver}
+2018-07-12 17:10:10 [Thread-3] [com.appsoft.data_trans.DsMgr:51] - init ds ok
+2018-07-12 17:10:10 [Thread-3] [com.appsoft.utils.PropertyUtil:22] - 加载job.properties,内容:{dir=D:\WJ_RESOURCE\ID_CARD2\, sql=select id_card, pic from wj_blob_test}
